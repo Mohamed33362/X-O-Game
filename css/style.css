@@ -1,0 +1,27 @@
+.contaner{
+    width: 252px;
+    text-align: center;
+    margin: auto;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.title{
+    background-image: linear-gradient(to right,#800080bc,#4100d9c8);
+    color: #ffffffd4;
+}
+span{
+    color: #fff200e0;
+}
+.square{
+    width: 80px;
+    height: 80px;
+    background-image:linear-gradient(to right, #800080bc, #4100d9c8);
+    float: left;
+        margin: 2px;
+        font-size: 60px;
+        color: white;
+}
+.square:hover{
+    background-image: linear-gradient(to top,black,black);
+}
